@@ -6,6 +6,12 @@
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salah-kazlak/salah-kazlak/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<br>
+
 <h2 align="center">Programming Mindset</h2>
 
 <div align="center">
