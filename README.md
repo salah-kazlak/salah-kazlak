@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/patrick.gif" width="220" />
+  <img src="68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966.gif" width="220" />
 </p>
 
 <br>
