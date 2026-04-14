@@ -55,7 +55,7 @@
 
 <br>
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">Connect With Me 📞</h2>
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL_HERE">
