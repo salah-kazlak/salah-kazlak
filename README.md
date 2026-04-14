@@ -42,7 +42,7 @@
 
 <br>
 
-<h2 align="center">Interests & Tools</h2>
+<h2 align="center">Interests & Tools 👩🏻‍💻</> </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,py,mysql,vscode,linux,git,github,nodejs,laravel" />
