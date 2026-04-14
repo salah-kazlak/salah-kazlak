@@ -7,6 +7,12 @@
 <br>
 
 <p align="center">
+  <img src="./assets/patrick.gif" width="220" />
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/salah-kazlak/salah-kazlak/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
