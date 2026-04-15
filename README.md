@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">Programming Mindset 🐘💥╾━╤デ╦︻ඞා </h2>
+<h2 align="center">Programming Mindset</h2>
 
 <div align="center">
   
