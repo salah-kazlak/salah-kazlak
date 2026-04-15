@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  /̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 💥
+ ( /̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿  💥  🫀 ) = 🧠
 </p>
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">Programming Mindset</h2>
+<h2 align="center">Programming Mindset = < > 👨🏻‍💻♨🎓 </> </h2>
 
 <div align="center">
   
