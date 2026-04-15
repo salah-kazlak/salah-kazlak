@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Salah Kazlak 👋</h1>
+<h1 align="center">Hi, I'm Salah Kazlak 🐋 </h1>
 
 <p align="center">
   Software Engineering Student • Full Stack Developer • Problem Solver
 </p>
 
+<br>
+<br>
+
+<p align="center">
+  /̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 💥
+</p>
 <br>
 
 <p align="center">
