@@ -27,7 +27,7 @@
 <h2 align="center">Programming Mindset 🐘💥╾━╤デ╦︻ඞා </h2>
 
 <div align="center">
-
+  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
